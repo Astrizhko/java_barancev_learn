@@ -1,2 +1,2 @@
-myfirstp.java
- myfirstp
+UA/java_barancev/MyFirstProgram.java
+ UA.java_barancev.MyFirstProgram
