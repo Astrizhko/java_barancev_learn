@@ -1,2 +1,6 @@
+UA/java_barancev/Square.java
+ UA.java_barancev.Square
+UA/java_barancev/Rectangle.java
+ UA.java_barancev.Rectangle
 UA/java_barancev/MyFirstProgram.java
  UA.java_barancev.MyFirstProgram
